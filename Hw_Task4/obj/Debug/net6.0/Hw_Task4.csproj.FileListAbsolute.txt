@@ -1,0 +1,15 @@
+C:\Users\Alexa\OneDrive\Рабочий стол\SeminarsС#\Seminar1\Hw_Task4\bin\Debug\net6.0\Hw_Task4.exe
+C:\Users\Alexa\OneDrive\Рабочий стол\SeminarsС#\Seminar1\Hw_Task4\bin\Debug\net6.0\Hw_Task4.deps.json
+C:\Users\Alexa\OneDrive\Рабочий стол\SeminarsС#\Seminar1\Hw_Task4\bin\Debug\net6.0\Hw_Task4.runtimeconfig.json
+C:\Users\Alexa\OneDrive\Рабочий стол\SeminarsС#\Seminar1\Hw_Task4\bin\Debug\net6.0\Hw_Task4.dll
+C:\Users\Alexa\OneDrive\Рабочий стол\SeminarsС#\Seminar1\Hw_Task4\bin\Debug\net6.0\Hw_Task4.pdb
+C:\Users\Alexa\OneDrive\Рабочий стол\SeminarsС#\Seminar1\Hw_Task4\obj\Debug\net6.0\Hw_Task4.csproj.AssemblyReference.cache
+C:\Users\Alexa\OneDrive\Рабочий стол\SeminarsС#\Seminar1\Hw_Task4\obj\Debug\net6.0\Hw_Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexa\OneDrive\Рабочий стол\SeminarsС#\Seminar1\Hw_Task4\obj\Debug\net6.0\Hw_Task4.AssemblyInfoInputs.cache
+C:\Users\Alexa\OneDrive\Рабочий стол\SeminarsС#\Seminar1\Hw_Task4\obj\Debug\net6.0\Hw_Task4.AssemblyInfo.cs
+C:\Users\Alexa\OneDrive\Рабочий стол\SeminarsС#\Seminar1\Hw_Task4\obj\Debug\net6.0\Hw_Task4.csproj.CoreCompileInputs.cache
+C:\Users\Alexa\OneDrive\Рабочий стол\SeminarsС#\Seminar1\Hw_Task4\obj\Debug\net6.0\Hw_Task4.dll
+C:\Users\Alexa\OneDrive\Рабочий стол\SeminarsС#\Seminar1\Hw_Task4\obj\Debug\net6.0\refint\Hw_Task4.dll
+C:\Users\Alexa\OneDrive\Рабочий стол\SeminarsС#\Seminar1\Hw_Task4\obj\Debug\net6.0\Hw_Task4.pdb
+C:\Users\Alexa\OneDrive\Рабочий стол\SeminarsС#\Seminar1\Hw_Task4\obj\Debug\net6.0\Hw_Task4.genruntimeconfig.cache
+C:\Users\Alexa\OneDrive\Рабочий стол\SeminarsС#\Seminar1\Hw_Task4\obj\Debug\net6.0\ref\Hw_Task4.dll
